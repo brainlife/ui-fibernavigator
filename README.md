@@ -47,6 +47,20 @@ FiberNavigator is a real-time tractography and visualization tool from the Sherb
 
 [ui-niivue](https://github.com/brainlife/ui-niivue) (current in-browser viewer) · [abcd-novnc](https://github.com/brainlife/abcd-novnc) (desktop viewer launcher) · [warehouse-next](https://github.com/brainlife/warehouse-next) (datatypes and their viewers)
 
+<details>
+<summary><b>📜 Previous README (technical details)</b></summary>
+
+# ui-fibernavigator
+
+[FiberNavigator](https://www.youtube.com/watch?v=A3KCekqPTok) is a real-time tractography and visualization tool developed by [Sherbrooke Connectivity Imaging Lab](https://github.com/scilus).
+
+This repo wraps FiberNavigator in a Docker in a way that it can be exposed on Brainlife.io.
+
+### References 
+[Pestilli et al. (2014) Evaluation and statistical inference for human connectomes. Nature Methods.](https://www.ncbi.nlm.nih.gov/pubmed/25194848)
+
+</details>
+
 ## 📚 Citing
 
 If you use brainlife.io in your work, please cite:
